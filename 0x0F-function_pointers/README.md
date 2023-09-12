@@ -1,3 +1,0 @@
-C - Function pointers
-TASKS
-
